@@ -1,4 +1,4 @@
-package main
+package solutions 
 
 import (
 	linkedlist "leetcode-tkankath/solutions/linked-list"
